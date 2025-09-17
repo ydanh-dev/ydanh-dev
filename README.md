@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Anh Duy  
 
-🚀 Passionate Developer | 📱 Mobile & Web | 🌱 Always learning  
+<img src="https://img.icons8.com/expo" width="150"/>
 
-🔗 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+📱 Mobile Developer
 
 ---
 
