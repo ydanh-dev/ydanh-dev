@@ -33,15 +33,15 @@
 
 ## 📊 GitHub Stats  
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhduy2209&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy2209&layout=compact&theme=radical)  
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydanh-dev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydanh-dev&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/duyna22)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/anhduy2209)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/ydanh-dev)  
 
 ---
 ✨ _“Code, Learn, Repeat!”_ ✨
