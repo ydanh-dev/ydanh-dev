@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anh Duy  
 
-<img src="https://img.icons8.com/expo" width="150"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNxNXdtc255MTVzaGk2OXk5YzExcW0waWw5MXU3empnb3B5enU5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wlOijxljMg3NSgzzuQ/giphy.gif" width="200"/>
 
 📱 Mobile Developer
 
@@ -42,6 +42,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/duyna22)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/ydanh-dev)  
-
----
-✨ _“Code, Learn, Repeat!”_ ✨
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duynguyen1bb@gmail.com)
