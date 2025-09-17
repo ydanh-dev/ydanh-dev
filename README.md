@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anh Duy  
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNxNXdtc255MTVzaGk2OXk5YzExcW0waWw5MXU3empnb3B5enU5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wlOijxljMg3NSgzzuQ/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN293dm10eXNma29neGJtM2FkaWN0dHg1aHE1MDRueGFhMTl3dGtwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1N5FKgBcWW3e/giphy.gif" width="200"/>
 
 📱 Mobile Developer
 
@@ -17,17 +17,21 @@
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=000) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=fff) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=fff)  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  
 
 **Tools:**  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=fff) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff) 
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+
 
 ---
 
